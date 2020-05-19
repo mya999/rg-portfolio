@@ -24,8 +24,8 @@ module.exports = {
     {
       resolve: "gatsby-source-contentful",
       options: {
-        spaceId,
-        accessToken
+        spaceId:'l44fr0evpf9i',
+        accessToken:'CFPAT-wU4V1uP7e2SsRL_U5QWSnxrIoM0nBFKcT1K_lJeJeDY'
       }
     },
     `gatsby-transformer-sharp`,
